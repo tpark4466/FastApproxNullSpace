@@ -1,8 +1,8 @@
 function [r, pol, res, zer, zj, fj, wj, errvec, wt] = sAAA(F, varargin)
 %   Sketched AAA with reused sketch. (Lawson is turned off [3])
 %   The code for sketched AAA with reused sketch is written on top of the
-%   original AAA code from Chebfun. The differences are in lines 75 - 90
-%   See http://www.chebfun.org/ for Chebfun information.
+%   original AAA code from Chebfun. The differences are in lines 75 - 90.
+%   The original code aaa.m is freely available at http://www.chebfun.org/.
 
 %   References for sketched AAA:
 %   [1] Yuji Nakatsukasa, Taejun Park, "A Fast Algorithm for Computing an
