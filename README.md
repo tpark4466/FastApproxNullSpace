@@ -3,3 +3,6 @@ Repository for numerical experiments done in [1].
 
 [1] Yuji Nakatsukasa, Taejun Park, "A Fast Algorithm for Computing an Approximate Null Space", arXiv, 2022.
 
+AAAtest.m and sAAA.m files require Chebfun.
+sAAA.m file was written on top of aaa.m file in Chebfun.
+See http://www.chebfun.org/ for Chebfun information.
